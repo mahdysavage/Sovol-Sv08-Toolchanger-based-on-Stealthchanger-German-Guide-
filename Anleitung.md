@@ -1,4 +1,4 @@
-# Sovol-Sv08-Toolchanger-based-on-Stealthchanger-German-Guide-
+# Sovol-Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-Deutsch-
 
 Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolchanhger/Werkzeugwechsler des Sovol Sv08. 
 
