@@ -55,29 +55,28 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
 
       Materialien/Guide findet ihr in den nachfolgenden link, dort wird alles ausfführlich erklärt.
 
-      Druck-Teile Druckbett Sv08 Original:
+      Komplette Anleitung für den Rahmen:
       https://tinyurl.com/Toolhead-Frame-Bar
 
       Wenn man ein Voron-Druckbett einbauen möchte!
-      
       Druckteile Voron Druckbett:
       https://tinyurl.com/Toolhead-Frame-Bar-Voron
 
       Tipps von mir: 
       ;Auf die 2020 Rahmen achten ggf. siehe Druckteil-Einkerbung
-      ;Richthöhe des horizontalen Profil ca 10cm vom Top des Gehäude
-      ;Druckteile sollte mindestens mit PETG gedruckt werden 
+      ;Richthöhe des horizontalen Profil ca 10cm vom Top des Gehäuse
+      ;Druckteile sollte mindestens mit PETG gedruckt werden besse ABS/ASA
 
 
       
       2.2 Toolhead aussuchen und Docks einbauen
-      Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörige Docks wählen. Das ist ganz individuell!! 
+      Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörige Docks wählen. Das ist ganz individuell!! Da der Rahmen eine einzigartige Lösung ist, sollte man ein passgenaues Dock suchen.
 
-      Ich nutze den Anthead Toolhead und dafür passen diese Docks perfekt!
+      Ich nutze den Anthead Toolhead und dafür den passenden Dock!
       https://github.com/PrintersForAnts/AntHead
       https://tinyurl.com/Anthead-Dock
 
-      Weitere Toolhead Varianten die für mich in Frage gekommen wären, bei denen aber kein passendes Dock dabei war. Mit CAD könnte die orginale files einfach auf den Rahmen umändern.
+      Weitere Toolhead Varianten die für mich in Frage gekommen wären, bei denen aber kein passendes Dock dabei war. ***Mit CAD könnte die orginal File einfach auf den Rahmen umgeändert werden***
 
       https://tinyurl.com/Dragon-Burner
       https://tinyurl.com/Voron-Stealtburner
@@ -85,6 +84,10 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
       
       Dock Varianten:
       https://github.com/DraftShift/ModularDock
+
+
+      Tipp von mir:
+      ;Achtet auf die kürzere Version der Docks (man spart wichtigen Druckraum :D)
       
 
 
