@@ -52,12 +52,12 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
 
       2.2 Rahmen für die Toolhead Docks anfertigen
 
-      Materialien/Guide findet ihr in den nachfolgenden link, dort wird alles ausfführlich erklärt.
+      Materialien/Guide findet ihr in den nachfolgenden link, dort wird alles ausführlich erklärt.
 
       Komplette Anleitung für den Rahmen:
       https://tinyurl.com/Toolhead-Frame-Bar
 
-      Wenn man ein Voron-Druckbett einbauen möchte!
+      Wenn man ein Voron-Druckbett einbauen möchte, empfiehlt sich den Nozzlebrush in der Mitte zusetzen!
       Druckteile Voron Druckbett:
       https://tinyurl.com/Toolhead-Frame-Bar-Voron
 
