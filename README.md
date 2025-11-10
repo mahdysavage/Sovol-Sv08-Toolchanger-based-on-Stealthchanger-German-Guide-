@@ -49,7 +49,7 @@ Step 1: Sv08 auf Toolchanger vorbereiten
 Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
 
 
-      Hardware
+      Hardware zu erst
 
 
       2.1 Rahmen für die Toolhead Docks anfertigen
