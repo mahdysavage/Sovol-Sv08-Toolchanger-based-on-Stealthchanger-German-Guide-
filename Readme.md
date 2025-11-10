@@ -27,10 +27,9 @@ Step 1: Sv08 auf Toolchanger vorbereiten
 
 Step 2: Jetzt kommen wir zum Toolchanger, diese Section wird unterteilt in Hardware und Software
 
-
+-------------------------------
       Hardware zu erst
-
-
+-------------------------------
       2.1 Netzteil auf min.350watt erweitern
 
       Video-Anleitung:
