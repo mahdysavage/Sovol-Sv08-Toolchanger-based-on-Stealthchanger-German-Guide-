@@ -5,7 +5,7 @@ Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolcha
 ***Bitte beachten***
 ***Es handelt sich hier um eine Kurzanleitung, es werden zu manchen Themen wie z.B. Mainline Klipper lediglich Hilfefstellungen gegeben***
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Step 1: Sv08 auf Toolchanger vorbereiten
 
@@ -13,10 +13,9 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       
       ***Wichtig*** 
       Wenn man vor hat den Toolhead komplett zu verändern bzw. den orginalen nicht nutzen möchten dann kann man das programmieren des Toolboard auslassen.
-      Ich habe für meine zukünfitgen Druckköpfe den Bigtreetech ebb36 genommen, wo wir später Katapult bzw. Klipper sowieso installieren. Wenn man aber möchte dass der Drucker nach Mainline-Klipper erst einmal weiter             druckt, dann bitte den Video-Guide komplett durchfführen. 
+      Ich habe für meine zukünfitgen Druckköpfe den Bigtreetech ebb36 genommen, wo wir später Katapult bzw. Klipper sowieso installieren. Wenn man aber möchte dass der Drucker nach Mainline-Klipper erst einmal weiter druckt, dann bitte den Video-Guide komplet                  durchfführen. 
 
       Video-Anleitung:
-      
       https://www.youtube.com/watch?v=1GHY9XKG7DQ
       
       Materialien:
@@ -43,7 +42,7 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       ;achtet auf die Kabeldicke ich empfehle 12AWG also ein Kabelquerschnitt von min. 2.00mm2 
       
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
