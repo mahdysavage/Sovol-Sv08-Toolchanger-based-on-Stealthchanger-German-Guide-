@@ -8,7 +8,6 @@ Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolcha
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Step 1: Sv08 auf Toolchanger vorbereiten
---------------------------------------------------------------------------------------------------------------
 
       1.1 Mainline Klipper installieren und den eMMc auf 32 GB erweitern
       
@@ -17,14 +16,14 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       Ich habe für meine zukünfitgen Druckköpfe den Bigtreetech ebb36 genommen, wo wir später Katapult bzw. Klipper sowieso installieren. Wenn man aber möchte dass der Drucker nach Mainline-Klipper erst einmal weiter             druckt, dann bitte den Video-Guide komplett durchfführen. 
 
       Video-Anleitung:
-      --------------------------------------------------------------------------------------------------------------
+      
       https://www.youtube.com/watch?v=1GHY9XKG7DQ
-      --------------------------------------------------------------------------------------------------------------
+      
       Materialien:
       https://tinyurl.com/MKS-EMMC-32GB-Adapter
       https://tinyurl.com/St-Link-v-2
       
---------------------------------------------------------------------------------------------------------------
+
      
       1.2 Netzteil auf 350watt erweitern
 
@@ -49,9 +48,9 @@ Step 1: Sv08 auf Toolchanger vorbereiten
 
 Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
 
---------------------------------------------------------------------------------------------------------------
+
       Hardware
---------------------------------------------------------------------------------------------------------------
+
 
       2.1 Rahmen für die Toolhead Docks anfertigen
 
@@ -70,7 +69,7 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
       ;Richthöhe des horizontalen Profil ca 10cm vom Top des Gehäude
       ;Druckteile sollte mindestens mit PETG gedruckt werden 
 
---------------------------------------------------------------------------------------------------------------
+
       
       2.2 Toolhead aussuchen und Docks einbauen
       Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörige Docks wählen. Das ist ganz individuell!! 
