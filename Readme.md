@@ -25,7 +25,7 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       
 
 
-Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
+Step 2: Jetzt kommen wir zum Toolchanger, diese Section wird unterteilt in Hardware und Software
 
 
       Hardware zu erst
@@ -36,14 +36,14 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
       Video-Anleitung:
       https://tinyurl.com/Netzteil-Verkabelung
 
-      Bild-Verkabelung:
-      https://ibb.co/Y73YVfmb
-
       Druck-Teile:
       https://tinyurl.com/Netzteil-Befestigung
       
       Materialien:
       https://tinyurl.com/Meanwell-350watt-Netzteil
+
+      Bild-Verkabelung:
+      https://ibb.co/Y73YVfmb
 
       Tipps von mir: 
       ;achtet auf die Kabeldicke ich empfehle 12AWG also ein Kabelquerschnitt von min. 2.00mm2 
@@ -57,25 +57,29 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
       Komplette Anleitung für den Rahmen:
       https://tinyurl.com/Toolhead-Frame-Bar
 
-      Wenn man ein Voron-Druckbett einbauen möchte, empfiehlt sich den Nozzlebrush in der Mitte zusetzen!
-      Druckteile Voron Druckbett:
+      Wenn man ein Voron-Bed einbauen möchte, empfiehlt sich den Nozzlebrush in der Mitte zusetzen!
+      Druckteile  in der Mitte Voron Bed:
       https://tinyurl.com/Toolhead-Frame-Bar-Voron
 
       Tipps von mir: 
-      ;Auf die 2020 Rahmen achten ggf. siehe Druckteil-Einkerbung
+      ;Auf die Einkerbung der 2020 Rahmen achten, es müssen keine Misumi sein. Ich empfehle den Schnitt mit einer Kapp-und Gehrungssäge
       ;Richthöhe des horizontalen Profil ca 10cm vom Top des Gehäuse
-      ;Druckteile sollte mindestens mit PETG gedruckt werden besse ABS/ASA
+      ;Druckteile sollte mindestens mit PETG gedruckt werden besser ABS/ASA
 
 
       
       2.3 Toolhead aussuchen und Docks einbauen
-      Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörige Docks wählen. Das ist ganz individuell!! Da der Rahmen eine einzigartige Lösung ist, sollte man ein passgenaues Dock suchen.
+      Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörigen Docks wählen. Das ist ganz individuell!! Da der Rahmen eine einzigartige Lösung ist, sollte man ein passgenaues Dock suchen.
 
-      Ich nutze den Anthead Toolhead und dafür den passenden Dock!
+      Ich nutze den Anthead Toolhead und dafür den passenden Dock! Ich bin sehr begeistert und kann es jedem empfehlen. Super einfache Montage, gute Dokumentatiion und eine riesen vielfalt an Extruder bzw Hotend Möglichkeiten.
+      In meinem fall nutze ich den 5x LGX Lite Extruder mit den 5x Bambulab X1C Hotend. Ich fand die Simbiose aus komplett Alu Extruder mit Bambu Druckqualitöt cool, aber ihr könnt jedes Toolhead anders wählen. Heute würde ich warscheinlich einen LDO Orbiter mit einem         e3d revo oder einen rapido uhf verbauen.
+
+      Anthead / Dock genaueres findet ihr in der Anthead section im main header
       https://github.com/PrintersForAnts/AntHead
       https://tinyurl.com/Anthead-Dock
 
-      Weitere Toolhead Varianten die für mich in Frage gekommen wären, bei denen aber kein passendes Dock dabei war. ***Mit CAD könnte die orginal File einfach auf den Rahmen umgeändert werden***
+      Weitere Toolhead Varianten die für mich in Frage gekommen wären, bei denen aber kein passendes Dock dabei war. 
+      ***Mit CAD könnte die orginal File einfach auf den Rahmen umgeändert werden***
 
       https://tinyurl.com/Dragon-Burner
       https://tinyurl.com/Voron-Stealtburner
@@ -87,6 +91,9 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
 
       Tipp von mir:
       ;Achtet auf die kürzere Version der Docks (man spart wichtigen Druckraum :D)
+      ;docks und toolhead sollten schon in ABS/ASA gedruckt werden; Druckeinstellung 3 Wände, 20% Infill und Füllmuster Infillart Gyroid
+      ;der Dock nutzt ein nozzle blocker der später beim drucken sehr wichtig ist, achte auf sehr hitze beständiges Silikon.
+      ;ich kann das Piano Draht nicht empfehlen nehmt hier immer die Sprungstahl Variante da es das Kabel besser Stramm hällt.
       
 
 
