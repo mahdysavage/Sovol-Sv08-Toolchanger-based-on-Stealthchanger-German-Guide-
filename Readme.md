@@ -21,10 +21,17 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       Materialien:
       https://tinyurl.com/MKS-EMMC-32GB-Adapter
       https://tinyurl.com/St-Link-v-2
+
       
 
-     
-      1.2 Netzteil auf 350watt erweitern
+
+Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
+
+
+      Hardware zu erst
+
+
+      2.1 Netzteil auf min.350watt erweitern
 
       Video-Anleitung:
       https://tinyurl.com/Netzteil-Verkabelung
@@ -41,17 +48,9 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       Tipps von mir: 
       ;achtet auf die Kabeldicke ich empfehle 12AWG also ein Kabelquerschnitt von min. 2.00mm2 
       
+      
 
-
-
-
-Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardware und Software
-
-
-      Hardware zu erst
-
-
-      2.1 Rahmen für die Toolhead Docks anfertigen
+      2.2 Rahmen für die Toolhead Docks anfertigen
 
       Materialien/Guide findet ihr in den nachfolgenden link, dort wird alles ausfführlich erklärt.
 
@@ -69,7 +68,7 @@ Step 2: Jetzt kommen wir zum Toolchanger: Diese Section wird unterteilt in Hardw
 
 
       
-      2.2 Toolhead aussuchen und Docks einbauen
+      2.3 Toolhead aussuchen und Docks einbauen
       Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörige Docks wählen. Das ist ganz individuell!! Da der Rahmen eine einzigartige Lösung ist, sollte man ein passgenaues Dock suchen.
 
       Ich nutze den Anthead Toolhead und dafür den passenden Dock!
