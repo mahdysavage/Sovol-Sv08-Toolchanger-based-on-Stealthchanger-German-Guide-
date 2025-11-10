@@ -1,4 +1,4 @@
-#-Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-
+# -Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-
 
 Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolchanhger des Sovol Sv08. 
 
