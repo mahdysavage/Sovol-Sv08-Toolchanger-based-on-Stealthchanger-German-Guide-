@@ -1,6 +1,6 @@
-# Sovol-Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-
+#-Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-
 
-Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolchanhger/Werkzeugwechsler des Sovol Sv08. 
+Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolchanhger des Sovol Sv08. 
 
 ***Bitte beachten***
 ***Es handelt sich hier um eine Kurzanleitung, es werden zu manchen Themen wie z.B. Mainline Klipper lediglich Hilfefstellungen gegeben***
