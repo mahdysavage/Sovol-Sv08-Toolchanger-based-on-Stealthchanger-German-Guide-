@@ -17,8 +17,9 @@ Step 1: Sv08 auf Toolchanger vorbereiten
       Ich habe für meine zukünfitgen Druckköpfe den Bigtreetech ebb36 genommen, wo wir später Katapult bzw. Klipper sowieso installieren. Wenn man aber möchte dass der Drucker nach Mainline-Klipper erst einmal weiter             druckt, dann bitte den Video-Guide komplett durchfführen. 
 
       Video-Anleitung:
+      --------------------------------------------------------------------------------------------------------------
       https://www.youtube.com/watch?v=1GHY9XKG7DQ
-      
+      --------------------------------------------------------------------------------------------------------------
       Materialien:
       https://tinyurl.com/MKS-EMMC-32GB-Adapter
       https://tinyurl.com/St-Link-v-2
