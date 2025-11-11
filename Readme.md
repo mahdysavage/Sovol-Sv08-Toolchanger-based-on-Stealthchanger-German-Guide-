@@ -98,6 +98,10 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
   
 <img src="https://i.ibb.co/r2d0z45V/Sv08-Riemen.png" alt="Logo" width="200"/>
 
+
+
+
+
 <img src="https://i.ibb.co/NdnHtD6L/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 
 
