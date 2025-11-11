@@ -15,6 +15,15 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
+
+
+
+
+
+
+
+
+
 ## 📌 Wichtige Hinweise
 
 1.Trenne den Drucker immer komplett vom Netzstrom, bevor du öffnest oder Komponenten absteckst.
