@@ -48,7 +48,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
-- Wenn du du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
+- Wenn du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
 
 **Video-Anleitung**:  
 [Klipper Setup Guide](https://www.youtube.com/watch?v=1GHY9XKG7DQ)
