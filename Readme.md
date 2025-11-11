@@ -92,7 +92,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 **Druckteile**:  
 [Netzteil Befestigung](https://tinyurl.com/Netzteil-Befestigung)
 
-<img src="https://i.ibb.co/FL7htvyj/Netzteil-350w.png" alt="Logo" width="300"/>
+<img src="https://i.ibb.co/FL7htvyj/Netzteil-350w.png" alt="Logo" width="200"/>
 
 
 
@@ -108,7 +108,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 **Bild der Verkabelung**:  
 [Verkabelung Bild](https://ibb.co/Y73YVfmb)
 
-<img src="https://i.ibb.co/fYjH0sQr/Netzteil-Verkabelung.png" alt="Logo" width="300"/>
+<img src="https://i.ibb.co/fYjH0sQr/Netzteil-Verkabelung.png" alt="Logo" width="200"/>
 
 
 
