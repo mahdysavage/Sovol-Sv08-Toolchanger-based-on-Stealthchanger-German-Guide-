@@ -92,11 +92,14 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
-##### 2.4 ***Stealthchanger Shuttle/neue Riemen einbauen
+##### 2.4 **Stealthchanger Shuttle/neue Riemen einbauen**
 
 - **Materialwahl**: Fycets CNC Shuttle und
   
 <img src="https://i.ibb.co/r2d0z45V/Sv08-Riemen.png" alt="Logo" width="200"/>
+
+<img src="https://i.ibb.co/NdnHtD6L/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
+
 
 
 - **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
