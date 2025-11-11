@@ -39,7 +39,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 5.Für Arbeiten am Netzteil / Austausch von Netzteil‑Kabeln: nur wenn du Erfahrung mit 230V/120V Elektrik hast
 
 ---
-Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software.
+Vorbereitung
 ---
 
 ## 🛠️ Step 1: Vorbereitung des Sovol SV08 auf den Toolchanger
@@ -76,7 +76,8 @@ Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software.
 
 
 
-
+---
+Der Toolchanger 
 ---
 
 ## 🔧 Step 2: Der Toolchanger - Hardware und Software
