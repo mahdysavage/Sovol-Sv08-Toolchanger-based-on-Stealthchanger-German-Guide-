@@ -29,6 +29,9 @@ Wichtige Sicherheits‑Hinweise (lesen!):
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Klipper-logo_svg.svg" alt="Alt-Text" width="200"/>
 
 
+<img src="(https://share.google/images/Hlz44h0LHu21vehaN)" alt="Alt-Text" width="200"/>
+
+
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
 - Wenn du du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
 
