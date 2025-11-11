@@ -5,8 +5,8 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 ## 📌 Wichtige Hinweise
 
 - Diese Anleitung ist eine **Kurzanleitung**. Sie geht nicht in alle Details ein, sondern bietet Hilfestellungen und Links zu umfassenderen Guides.
-- Wenn du den Toolhead komplett verändern möchtest und nicht den originalen Toolhead weiterverwenden willst, kannst du das Programmieren des Toolboards überspringen.
-- Der **Bigtreetech ebb36** wird für zukünftige Toolheads empfohlen. Weitere Details zur Installation von Katapult und Klipper folgen später.
+- 
+
 
 Wichtige Sicherheits‑Hinweise (lesen!):
 
