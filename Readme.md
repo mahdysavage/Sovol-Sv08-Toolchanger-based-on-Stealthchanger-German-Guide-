@@ -77,7 +77,9 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 **Materialien**:  
 - [Meanwell 350W Netzteil](https://tinyurl.com/Meanwell-350watt-Netzteil)
- <img src="https://i.ibb.co/hF8V11Lk/Meanwell-350watt-Netzteil.png" alt="Logo" width="200"/>
+  
+<img src="https://i.ibb.co/m5kB82qN/Meanwell-350watt-Netzteil.png" alt="Logo" width="200"/>
+
 
 
 
