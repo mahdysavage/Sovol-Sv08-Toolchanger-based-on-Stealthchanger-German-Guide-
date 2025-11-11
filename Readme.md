@@ -114,9 +114,9 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 - **Tipp**: Die Riemen müssen erneuert werden da man bei den Shuttle die Riemen einstülpen muss, wofür die original Riemen zu kurz sind. Außerdem empfehle ich im Anleitungsvideo die Riemenspannung per App mit Frequenz.
 - **Video-Anleitung**: 
 [Riemen erneuern](https://www.youtube.com/watch?v=7n_p33_o6dQ)
-- **Materialliste**:  
-- [Sovol Sv08 2GT 6mm Riemen](https://tinyurl.com/2GT-6mm-Riemen)
+- **Materialien**:  
 - [Fycets CNC Shuttle Kit](https://tinyurl.com/fycets-cnc-shuttle-kit)
+  
 <img src="https://i.ibb.co/M5cHdtdx/CNC-Shuttle.png" alt="Logo" width="200"/>
 
 
@@ -127,18 +127,18 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
+<img src="https://i.ibb.co/SXx7JWqM/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 
 
+
+
+
+
+- [Sovol Sv08 2GT 6mm Riemen](https://tinyurl.com/2GT-6mm-Riemen)
   
 <img src="https://i.ibb.co/Tq0bN9nv/2-GT-6mm-Riemen.png" alt="Logo" width="200"/>
 
 
-
-
-
-
-
-<img src="https://i.ibb.co/SXx7JWqM/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 
 
 
