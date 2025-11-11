@@ -101,10 +101,16 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
+
+
+
+
 **Bild der Verkabelung**:  
 [Verkabelung Bild](https://ibb.co/Y73YVfmb)
 
 <img src="https://i.ibb.co/fYjH0sQr/Netzteil-Verkabelung.png" alt="Logo" width="300"/>
+
+
 
 
 
