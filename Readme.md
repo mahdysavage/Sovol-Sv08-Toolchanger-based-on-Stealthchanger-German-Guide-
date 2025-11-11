@@ -37,6 +37,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 4.Firmware‑Flashen / Pin‑Mapping kann zum Fehlverhalten (z. B. Heizbett falsch angesteuert) führen — wenn du unsicher bist, nicht einschalten oder professionelle Hilfe holen.
 
 5.Für Arbeiten am Netzteil / Austausch von Netzteil‑Kabeln: nur wenn du Erfahrung mit 230V/120V Elektrik hast
+
 ---
 Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software.
 ---
