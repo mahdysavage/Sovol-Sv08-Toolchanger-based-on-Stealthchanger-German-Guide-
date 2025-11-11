@@ -9,7 +9,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
-<img src="https://i.ibb.co/b5080Ymr/Sv08-Toolchanger.png" alt="Logo" width="200"/>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/b5080Ymr/Sv08-Toolchanger.png" alt="Sv08-Toolchanger" border="0"></a>
 
 
 
