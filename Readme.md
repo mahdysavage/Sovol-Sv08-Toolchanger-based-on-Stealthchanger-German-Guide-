@@ -92,7 +92,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 #### 2.4 **Stealthchanger Shuttle/neue Riemen einbauen**
 
-- **Materialwahl**: Fycets CNC Shuttle und
+- **Materialwahl**: Fycets CNC Shuttle mit allen Kleinteilen und neue 2GT 6mm-Riemen 5meter reichen
   
 <img src="https://i.ibb.co/Tq0bN9nv/2-GT-6mm-Riemen.png" alt="Logo" width="200"/>
 
@@ -101,8 +101,8 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 
-<img src="https://i.ibb.co/NdnHtD6L/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 
+<img src="https://i.ibb.co/SXx7JWqM/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 ---
 
 ## 💻 Step 3: Software - Klipper und Toolchanger Integration
