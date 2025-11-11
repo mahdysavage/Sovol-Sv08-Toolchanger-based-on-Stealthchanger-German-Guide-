@@ -60,6 +60,8 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 **Materialien**:  
 - [Meanwell 350W Netzteil](https://tinyurl.com/Meanwell-350watt-Netzteil)
 
+
+
 #### 2.2 **Rahmen für Toolhead Docks anfertigen**
 
 - **Materialwahl**: Aluminiumprofile (2020) für den Dockrahmen.
@@ -71,6 +73,8 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 **Für Voron-Bed Umrüstung**:  
 [Voron Toolhead Frame](https://tinyurl.com/Toolhead-Frame-Bar-Voron)
+
+
 
 #### 2.3 **Toolhead aussuchen und Docks einbauen**
 
@@ -87,7 +91,15 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 [Modular Dock Varianten](https://github.com/DraftShift/ModularDock)
 
 
-##### 2.4 ***Stealthchanger Shuttle einbauen
+
+##### 2.4 ***Stealthchanger Shuttle/neue Riemen einbauen
+
+- **Materialwahl**: Fycets CNC Shuttle und
+  
+<img src="https://shop.bohrers.de/Trianglelab-GATES-LL-2GT.html" alt="Alt-Text" width="200"/>
+
+- **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
+- **Druckmaterialien**: PETG ist okay, besser jedoch ABS/ASA, da es mehr Wärmebeständigkeit bietet.
 
 
 
