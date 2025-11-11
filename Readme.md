@@ -96,7 +96,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 - **Materialwahl**: Fycets CNC Shuttle und
   
-<img src="https://i.ibb.co/r2d0z45V/Sv08-Riemen.png" alt="Logo" width="200"/>
+<img src="https://i.ibb.co/Tq0bN9nv/2-GT-6mm-Riemen.png" alt="Logo" width="200"/>
 
 
 
