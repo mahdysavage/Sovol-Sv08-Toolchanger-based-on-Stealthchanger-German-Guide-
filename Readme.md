@@ -1,101 +1,106 @@
-# -Sv08-Toolchanger-basierend-auf-Stealthchanger-Anleitung-
+# Sovol SV08 Toolchanger Umbau basierend auf Stealthchanger
 
-Hier findest du einen StepfürStep-Anleitung/Readme für den Umbau eines Toolchanhger des Sovol Sv08. 
+Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **Toolchanger** basierend auf dem **Stealthchanger** umbauen kannst. Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software. Sie richtet sich an Anwender, die bereits mit **Klipper** und **3D-Druckern** vertraut sind. Es werden keine kompletten Schritt-für-Schritt-Erklärungen zu Klipper und ähnlichen Softwarekomponenten gegeben, aber es gibt hilfreiche Links und Empfehlungen.
 
-***Bitte beachten***
-***Es handelt sich hier um eine Kurzanleitung, es werden zu manchen Themen wie z.B. Mainline Klipper lediglich Hilfefstellungen gegeben***
+## 📌 Wichtige Hinweise
 
+- Diese Anleitung ist eine **Kurzanleitung**. Sie geht nicht in alle Details ein, sondern bietet Hilfestellungen und Links zu umfassenderen Guides.
+- Wenn du den Toolhead komplett verändern möchtest und nicht den originalen Toolhead weiterverwenden willst, kannst du das Programmieren des Toolboards überspringen.
+- Der **Bigtreetech ebb36** wird für zukünftige Toolheads empfohlen. Weitere Details zur Installation von Katapult und Klipper folgen später.
 
+---
 
-Step 1: Sv08 auf Toolchanger vorbereiten
+## 🛠️ Step 1: Vorbereitung des Sovol SV08 auf den Toolchanger
 
-      1.1 Mainline Klipper installieren und den eMMc auf 32 GB erweitern
-      
-      ***Wichtig*** 
-      Wenn man vor hat den Toolhead komplett zu verändern bzw. den orginalen nicht nutzen möchten dann kann man das programmieren des Toolboard auslassen.
-      Ich habe für meine zukünfitgen Druckköpfe den Bigtreetech ebb36 genommen, wo wir später Katapult bzw. Klipper sowieso installieren. Wenn man aber möchte dass der Drucker nach Mainline-Klipper erst einmal weiter druckt, dann bitte den Video-Guide komplet                  durchfführen. 
+### 1.1 **Mainline Klipper installieren und eMMC auf 32GB erweitern**
 
-      Video-Anleitung:
-      https://www.youtube.com/watch?v=1GHY9XKG7DQ
-      
-      Materialien:
-      https://tinyurl.com/MKS-EMMC-32GB-Adapter
-      https://tinyurl.com/St-Link-v-2
+- **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
+- Für die ersten Drucke nach der Mainline-Klipper-Installation ist es notwendig, dem Drucker ein passendes Toolboard zu geben, wie den Bigtreetech ebb36.
 
-      
+**Video-Anleitung**:  
+[Klipper Setup Guide](https://www.youtube.com/watch?v=1GHY9XKG7DQ)
 
+**Materialien**:  
+- [MKS eMMC 32GB Adapter](https://tinyurl.com/MKS-EMMC-32GB-Adapter)
+- [ST-Link v2 Programmer](https://tinyurl.com/St-Link-v-2)
 
-Step 2: Jetzt kommen wir zum Toolchanger, diese Section wird unterteilt in Hardware und Software
+---
 
--------------------------------
-      Hardware zu erst
--------------------------------
-      2.1 Netzteil auf min.350watt erweitern
+## 🔧 Step 2: Der Toolchanger - Hardware und Software
 
-      Video-Anleitung:
-      https://tinyurl.com/Netzteil-Verkabelung
+### ⚙️ Hardware
 
-      Druck-Teile:
-      https://tinyurl.com/Netzteil-Befestigung
-      
-      Materialien:
-      https://tinyurl.com/Meanwell-350watt-Netzteil
+#### 2.1 **Netzteil auf 350W erweitern**
 
-      Bild-Verkabelung:
-      https://ibb.co/Y73YVfmb
+- **Empfohlene Leistung**: Mindestens 350W Netzteil, um den Toolchanger und zusätzliche Komponenten zu versorgen.
+- **Tipp**: Achte auf den Kabelquerschnitt (mindestens 12AWG oder 2,00mm²).
 
-      Tipps von mir: 
-      ;achtet auf die Kabeldicke ich empfehle 12AWG also ein Kabelquerschnitt von min. 2.00mm2 
-      
-      
+**Video-Anleitung**:  
+[Netzteil Verkabelung](https://tinyurl.com/Netzteil-Verkabelung)
 
-      2.2 Rahmen für die Toolhead Docks anfertigen
+**Druckteile**:  
+[Netzteil Befestigung](https://tinyurl.com/Netzteil-Befestigung)
 
-      Materialien/Guide findet ihr in den nachfolgenden link, dort wird alles ausführlich erklärt.
+**Bild der Verkabelung**:  
+[Verkabelung Bild](https://ibb.co/Y73YVfmb)
 
-      Komplette Anleitung für den Rahmen:
-      https://tinyurl.com/Toolhead-Frame-Bar
+**Materialien**:  
+- [Meanwell 350W Netzteil](https://tinyurl.com/Meanwell-350watt-Netzteil)
 
-      Wenn man ein Voron-Bed einbauen möchte, empfiehlt sich den Nozzlebrush in der Mitte zusetzen!
-      Druckteile  in der Mitte Voron Bed:
-      https://tinyurl.com/Toolhead-Frame-Bar-Voron
+#### 2.2 **Rahmen für Toolhead Docks anfertigen**
 
-      Tipps von mir: 
-      ;Auf die Einkerbung der 2020 Rahmen achten, es müssen keine Misumi sein. Ich empfehle den Schnitt mit einer Kapp-und Gehrungssäge
-      ;Richthöhe des horizontalen Profil ca 10cm vom Top des Gehäuse
-      ;Druckteile sollte mindestens mit PETG gedruckt werden besser ABS/ASA
+- **Materialwahl**: Aluminiumprofile (2020 oder 2040) für den Dockrahmen.
+- **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
+- **Druckmaterialien**: PETG ist okay, besser jedoch ABS/ASA, da es mehr Wärmebeständigkeit bietet.
 
+**Detaillierte Anleitung und Materialliste**:  
+[Toolhead Frame Guide](https://tinyurl.com/Toolhead-Frame-Bar)
 
-      
-      2.3 Toolhead aussuchen und Docks einbauen
-      Wenn man sich entschieden hat welchen Toolhead man nutzen möchte, kann man die dazu gehörigen Docks wählen. Das ist ganz individuell!! Da der Rahmen eine einzigartige Lösung ist, sollte man ein passgenaues Dock suchen.
+**Für Voron-Bed Umrüstung**:  
+[Voron Toolhead Frame](https://tinyurl.com/Toolhead-Frame-Bar-Voron)
 
-      Ich nutze den Anthead Toolhead und dafür den passenden Dock! Ich bin sehr begeistert und kann es jedem empfehlen. Super einfache Montage, gute Dokumentatiion und eine riesen vielfalt an Extruder bzw Hotend Möglichkeiten.
-      In meinem fall nutze ich den 5x LGX Lite Extruder mit den 5x Bambulab X1C Hotend. Ich fand die Simbiose aus komplett Alu Extruder mit Bambu Druckqualitöt cool, aber ihr könnt jedes Toolhead anders wählen. Heute würde ich warscheinlich einen LDO Orbiter mit einem         e3d revo oder einen rapido uhf verbauen.
+#### 2.3 **Toolhead aussuchen und Docks einbauen**
 
-      Anthead / Dock genaueres findet ihr in der Anthead section im main header
-      https://github.com/PrintersForAnts/AntHead
-      https://tinyurl.com/Anthead-Dock
+- Der Toolhead muss zum Dockrahmen passen. Wähle ein passendes Dock für deinen Toolhead.
+- Du kannst den **Anthead Toolhead** mit dem 5x LGX Lite Extruder und dem Bambulab X1C Hotend verwenden.
+- Alternativen Toolheads, die ebenfalls passen, sind z.B. **Voron Stealthburner** oder **Dragon Burner**. Diese erfordern jedoch eine Anpassung des Docks per CAD.
 
-      Weitere Toolhead Varianten die für mich in Frage gekommen wären, bei denen aber kein passendes Dock dabei war. 
-      ***Mit CAD könnte die orginal File einfach auf den Rahmen umgeändert werden***
+**Empfohlene Toolheads und Docks**:  
+- [Anthead Toolhead und Dock](https://github.com/PrintersForAnts/AntHead)
+- [Weitere Toolhead Varianten](https://tinyurl.com/Dragon-Burner)
+- [Voron Stealthburner](https://tinyurl.com/Voron-Stealtburner)
 
-      https://tinyurl.com/Dragon-Burner
-      https://tinyurl.com/Voron-Stealtburner
-      https://github.com/Armchair-Heavy-Industries/A4T
-      
-      Dock Varianten:
-      https://github.com/DraftShift/ModularDock
+**Docks für Toolhead**:  
+[Modular Dock Varianten](https://github.com/DraftShift/ModularDock)
 
+---
 
-      Tipp von mir:
-      ;Achtet auf die kürzere Version der Docks (man spart wichtigen Druckraum :D)
-      ;docks und toolhead sollten schon in ABS/ASA gedruckt werden; Druckeinstellung 3 Wände, 20% Infill und Füllmuster Infillart Gyroid
-      ;der Dock nutzt ein nozzle blocker der später beim drucken sehr wichtig ist, achte auf sehr hitze beständiges Silikon.
-      ;ich kann das Piano Draht nicht empfehlen nehmt hier immer die Sprungstahl Variante da es das Kabel besser Stramm hällt.
-      
+## 💻 Step 3: Software - Klipper und Toolchanger Integration
 
+- **Klipper Setup**: Installiere Klipper auf deinem Drucker und konfiguriere es für den Toolchanger-Betrieb.
+- Konfiguriere das **Toolboard** (z.B. **ebb36**) und stelle sicher, dass du die richtigen Pins und Toolhead-Parameter in der **printer.cfg** definierst.
+- **Katapult**: Wenn du mehrere Toolheads verwenden möchtest, solltest du Katapult zur Verwaltung der Toolwechsel einrichten.
 
-***Wichtig*** 
-***Wir wollen erst einmal einen Toolhead zum laufen bekommen, die Weiteren dann Step by Step. Man kann, wenn man möchte die Hardware bereits auf die gewünschte Anzahl vorbereiten***
+---
+
+## 📝 Zusätzliche Tipps:
+
+- **Kabelmanagement**: Verwende Kabelkanäle oder flexible Kabelbänder, um Kabel während des Drucks zu schützen.
+- **Hitzeisolierung**: Stelle sicher, dass deine Toolheads gut isoliert sind, besonders bei den Hotends.
+- **Materialwahl für Docks**: Docks und Toolheads sollten in **ABS oder ASA** gedruckt werden, um die hohe Temperaturbeständigkeit sicherzustellen.
+
+---
+
+## 📺 Nützliche Links:
+
+- [YouTube Setup Video für Klipper](https://www.youtube.com/watch?v=1GHY9XKG7DQ)
+- [MKS eMMC Adapter auf Amazon](https://tinyurl.com/MKS-EMMC-32GB-Adapter)
+- [ST-Link v2 Programmer](https://tinyurl.com/St-Link-v-2)
+- [Anthead Toolhead GitHub](https://github.com/PrintersForAnts/AntHead)
+
+---
+
+## 🚧 Noch nicht abgeschlossen?
+
+Wenn du Fragen hast oder auf ein Problem stößt, öffne ein **Issue** oder schreib mir eine Nachricht! Viel Spaß beim Umbau und drucke auf!
 
