@@ -8,6 +8,18 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 - Wenn du den Toolhead komplett verändern möchtest und nicht den originalen Toolhead weiterverwenden willst, kannst du das Programmieren des Toolboards überspringen.
 - Der **Bigtreetech ebb36** wird für zukünftige Toolheads empfohlen. Weitere Details zur Installation von Katapult und Klipper folgen später.
 
+Wichtige Sicherheits‑Hinweise (lesen!):
+
+1.Trenne den Drucker immer komplett vom Netzstrom, bevor du öffnest oder Komponenten absteckst.
+
+2.Arbeite an einem geerdeten, stabilen Arbeitsplatz. Vermeide Kurzschlüsse.
+
+3.Prüfe nach Umbau vor dem ersten Einschalten alle Verbindungen doppelt (Polung, Steckertypen, Schrauben).
+
+4.Firmware‑Flashen / Pin‑Mapping kann zum Fehlverhalten (z. B. Heizbett falsch angesteuert) führen — wenn du unsicher bist, nicht einschalten oder professionelle Hilfe holen.
+
+5.Für Arbeiten am Netzteil / Austausch von Netzteil‑Kabeln: nur wenn du Erfahrung mit 230V/120V Elektrik hast
+
 ---
 
 ## 🛠️ Step 1: Vorbereitung des Sovol SV08 auf den Toolchanger
@@ -15,7 +27,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 ### 1.1 **Mainline Klipper installieren und eMMC auf 32GB erweitern**
 
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
-- Für die ersten Drucke nach der Mainline-Klipper-Installation ist es notwendig, dem Drucker ein passendes Toolboard zu geben, wie den Bigtreetech ebb36.
+- Wenn du du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
 
 **Video-Anleitung**:  
 [Klipper Setup Guide](https://www.youtube.com/watch?v=1GHY9XKG7DQ)
@@ -49,7 +61,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 #### 2.2 **Rahmen für Toolhead Docks anfertigen**
 
-- **Materialwahl**: Aluminiumprofile (2020 oder 2040) für den Dockrahmen.
+- **Materialwahl**: Aluminiumprofile (2020) für den Dockrahmen.
 - **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
 - **Druckmaterialien**: PETG ist okay, besser jedoch ABS/ASA, da es mehr Wärmebeständigkeit bietet.
 
@@ -62,7 +74,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 #### 2.3 **Toolhead aussuchen und Docks einbauen**
 
 - Der Toolhead muss zum Dockrahmen passen. Wähle ein passendes Dock für deinen Toolhead.
-- Du kannst den **Anthead Toolhead** mit dem 5x LGX Lite Extruder und dem Bambulab X1C Hotend verwenden.
+- Du kannst den **Anthead Toolhead** mit deinen gewünschten Extruder / Hotend verwenden.
 - Alternativen Toolheads, die ebenfalls passen, sind z.B. **Voron Stealthburner** oder **Dragon Burner**. Diese erfordern jedoch eine Anpassung des Docks per CAD.
 
 **Empfohlene Toolheads und Docks**:  
@@ -72,6 +84,11 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 **Docks für Toolhead**:  
 [Modular Dock Varianten](https://github.com/DraftShift/ModularDock)
+
+
+##### 2.4 ***Stealthchanger Shuttle einbauen
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
