@@ -5,7 +5,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 ## 📌 Wichtige Hinweise
 
 - Diese Anleitung ist eine **Kurzanleitung**. Sie geht nicht in alle Details ein, sondern bietet Hilfestellungen und Links zu umfassenderen Guides.
-- 
+  
 
 
 Wichtige Sicherheits‑Hinweise (lesen!):
@@ -25,6 +25,7 @@ Wichtige Sicherheits‑Hinweise (lesen!):
 ## 🛠️ Step 1: Vorbereitung des Sovol SV08 auf den Toolchanger
 
 ### 1.1 **Mainline Klipper installieren und eMMC auf 32GB erweitern**
+![GitHub Logo](https://share.google/images/GnWMoPPFna2WYizFc)
 
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
 - Wenn du du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
@@ -88,7 +89,7 @@ Wichtige Sicherheits‑Hinweise (lesen!):
 
 ##### 2.4 ***Stealthchanger Shuttle einbauen
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 ---
 
