@@ -74,8 +74,6 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 **Für Voron-Bed Umrüstung**:  
 [Voron Toolhead Frame](https://tinyurl.com/Toolhead-Frame-Bar-Voron)
 
-
-
 #### 2.3 **Toolhead aussuchen und Docks einbauen**
 
 - Der Toolhead muss zum Dockrahmen passen. Wähle ein passendes Dock für deinen Toolhead.
@@ -104,13 +102,6 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 
 <img src="https://i.ibb.co/NdnHtD6L/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
-
-
-
-- **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
-- **Druckmaterialien**: PETG ist okay, besser jedoch ABS/ASA, da es mehr Wärmebeständigkeit bietet.
-
-
 
 ---
 
