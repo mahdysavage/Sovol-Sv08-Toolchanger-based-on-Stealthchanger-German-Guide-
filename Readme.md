@@ -107,6 +107,15 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 <img src="https://i.ibb.co/SXx7JWqM/CNC-Shuttle-Fycets.png" alt="Logo" width="200"/>
 
+
+
+
+
+
+
+<img src="https://i.ibb.co/M5cHdtdx/CNC-Shuttle.png" alt="Logo" width="200"/>
+
+
 ---
 
 ## 💻 Step 3: Software - Klipper und Toolchanger Integration
