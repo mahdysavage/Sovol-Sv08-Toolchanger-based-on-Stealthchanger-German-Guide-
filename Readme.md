@@ -96,7 +96,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 - **Materialwahl**: Fycets CNC Shuttle und
   
-<img src="https://shop.bohrers.de/Trianglelab-GATES-LL-2GT.html" alt="Alt-Text" width="200"/>
+<img src="https://ibb.co/r2d0z45V" width="200"/>
 
 - **Tipp**: Die Kapp- und Gehrungssäge sorgt für präzise Schnitte.
 - **Druckmaterialien**: PETG ist okay, besser jedoch ABS/ASA, da es mehr Wärmebeständigkeit bietet.
