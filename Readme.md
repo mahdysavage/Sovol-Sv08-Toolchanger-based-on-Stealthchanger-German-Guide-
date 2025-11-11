@@ -26,7 +26,7 @@ Wichtige Sicherheits‑Hinweise (lesen!):
 
 ### 1.1 **Mainline Klipper installieren und eMMC auf 32GB erweitern**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Klipper-logo_svg.svg" alt="Alt-Text" width="300"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Klipper-logo_svg.svg" alt="Alt-Text" width="200"/>
 
 
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
