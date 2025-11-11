@@ -36,6 +36,17 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 **Materialien**:  
 - [MKS eMMC 32GB Adapter](https://tinyurl.com/MKS-EMMC-32GB-Adapter)
 - [ST-Link v2 Programmer](https://tinyurl.com/St-Link-v-2)
+  <img src="https://i.ibb.co/spjwT4yX/e-MMc-32-GB.png" alt="Logo" width="200"/>
+
+
+
+
+
+
+
+
+  <img src="https://i.ibb.co/BKSFJy47/ST-link-v2.png" alt="Logo" width="200"/>
+  
 
 ---
 
