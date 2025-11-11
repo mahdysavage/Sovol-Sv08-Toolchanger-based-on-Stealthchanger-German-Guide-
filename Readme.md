@@ -1,14 +1,9 @@
 # Sovol SV08 Toolchanger Umbau basierend auf Stealthchanger
 
-Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **Toolchanger** basierend auf dem **Stealthchanger** umbauen kannst. Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software. Sie richtet sich an Anwender, die bereits mit **Klipper** und **3D-Druckern** vertraut sind. Es werden keine kompletten Schritt-für-Schritt-Erklärungen zu Klipper und ähnlichen Softwarekomponenten gegeben, aber es gibt hilfreiche Links und Empfehlungen.
+Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **Toolchanger** basierend auf dem **Stealthchanger** umbauen kannst. Die Anleitung ist in zwei Hauptteile unterteilt: Hardware und Software. 
+
 
 ## 📌 Wichtige Hinweise
-
-- Diese Anleitung ist eine **Kurzanleitung**. Sie geht nicht in alle Details ein, sondern bietet Hilfestellungen und Links zu umfassenderen Guides.
-  
-
-
-Wichtige Sicherheits‑Hinweise (lesen!):
 
 1.Trenne den Drucker immer komplett vom Netzstrom, bevor du öffnest oder Komponenten absteckst.
 
