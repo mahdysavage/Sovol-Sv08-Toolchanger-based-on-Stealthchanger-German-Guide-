@@ -12,7 +12,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 2.Arbeite an einem geerdeten, stabilen Arbeitsplatz. Vermeide Kurzschlüsse.
 
-3.Prüfe nach Umbau vor dem ersten Einschalten alle Verbindungen doppelt (Polung, Steckertypen, Schrauben).
+3.Prüfe nach Umbau vor dem ersten Einschalten alle Verbindungen doppelt (Polung, Steckertypen, Schrauben).Ich habe ein Durchgangsprüfer genommen.
 
 4.Firmware‑Flashen / Pin‑Mapping kann zum Fehlverhalten (z. B. Heizbett falsch angesteuert) führen — wenn du unsicher bist, nicht einschalten oder professionelle Hilfe holen.
 
