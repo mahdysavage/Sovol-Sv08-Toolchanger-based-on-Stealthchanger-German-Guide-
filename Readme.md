@@ -25,7 +25,10 @@ Wichtige Sicherheits‑Hinweise (lesen!):
 ## 🛠️ Step 1: Vorbereitung des Sovol SV08 auf den Toolchanger
 
 ### 1.1 **Mainline Klipper installieren und eMMC auf 32GB erweitern**
-![GitHub Logo](https://share.google/images/GnWMoPPFna2WYizFc)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Klipper-logo_svg.svg" alt="Alt-Text" width="300"/>
+
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Klipper-logo_svg.svg
 
 - **Wichtig**: Wenn du den Toolhead komplett ändern möchtest, überspringe das Programmieren des Toolboards.
 - Wenn du du aber weiterdrucken möchtest, muss auch das Toolboaed geflasht werden.
