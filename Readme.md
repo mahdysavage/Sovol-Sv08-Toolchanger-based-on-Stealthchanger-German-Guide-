@@ -145,7 +145,7 @@ Diese Anleitung beschreibt, wie du deinen **Sovol SV08 3D-Drucker** auf einen **
 
 **Empfohlene Toolheads und Docks**:  
 - [Anthead Toolhead und Dock](https://github.com/PrintersForAnts/AntHead)
-- [Weitere Toolhead Varianten](https://tinyurl.com/Dragon-Burner)
+- [Dragonburner](https://tinyurl.com/Dragon-Burner)
 - [Voron Stealthburner](https://tinyurl.com/Voron-Stealtburner)
 
 **Docks für Toolhead**:  
